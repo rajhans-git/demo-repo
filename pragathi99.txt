@@ -1,1 +1,1 @@
-welcome user to git
+welcome user to git. this is for understanding purpose.
