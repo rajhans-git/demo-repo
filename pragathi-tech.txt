@@ -1,2 +1,3 @@
 Hi USER
 welcome to git
+after git we will start ci/cd
